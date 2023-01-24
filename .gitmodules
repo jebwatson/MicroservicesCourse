@@ -1,3 +1,6 @@
 [submodule "PlatformService"]
 	path = PlatformService
 	url = git@github.com:jebwatson/MicroservicesCourse.PlatformService.git
+[submodule "CommandsService"]
+	path = CommandsService
+	url = git@github.com:jebwatson/MicroservicesCourse.CommandsService.git
