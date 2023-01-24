@@ -1,0 +1,3 @@
+[submodule "PlatformService"]
+	path = PlatformService
+	url = git@github.com:jebwatson/MicroservicesCourse.PlatformService.git
