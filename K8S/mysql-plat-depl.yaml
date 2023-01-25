@@ -53,7 +53,7 @@ spec:
           - name: MYSQL_ROOT_HOST
             value: '%'
           volumeMounts:
-          - mountPath: "~/Documents/db"
+          - mountPath: /var/lib/mysql
             name: mysql-pv
       volumes:
       - name: mysql-pv
